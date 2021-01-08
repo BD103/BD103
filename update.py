@@ -56,6 +56,7 @@ class Repo:
     issues = 0
 
     for i in data:
+        print(i)
         full_name = i["full_name"]
         print("Getting data for repo: " + full_name)
         query = f"https://api.github.com/repos/{full_name}/commits"
