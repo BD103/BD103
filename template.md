@@ -13,12 +13,15 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 - {commits} Commits
 - {prs} Pull Requests
 - {issues} Issues
+- Dark Mode Enabled
+- Owner of [Team Engage](https://github.com/Team-Engage)
+- Member of [Repl-it-Coders](https://github.com/Repl-it-Coders)
+
+<!--
 - {contribs} Contributions
 - {gists} Gists
 - Top Language: {top_lang}
 - Top Repo: {top_repo}
-- Dark Mode Enabled
-- Owner of [Team Engage](https://github.com/Team-Engage)
-- Member of [Repl-it-Coders](https://github.com/Repl-it-Coders)
+-->
 
 > **{zen}**
