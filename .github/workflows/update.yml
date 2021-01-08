@@ -25,3 +25,17 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
+      - name: Get Data and Format README
+        run: python3 update.py
+      - name: Switch from HTTP to SSH
+        run: git remote set-url origin ${{ secrets.ssh }}
+      - name: Check for changes
+        run: git status
+      - name: Stage changed files
+        run: git add .
+      - name: Commit file
+        run: git commit -m 'Update Readme'
+      - name: Fetch from master
+        run: git fetch origin main
+      - name: Push code to master
+        run: git push origin HEAD:main
