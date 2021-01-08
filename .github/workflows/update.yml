@@ -19,12 +19,7 @@ jobs:
         with:
           python-version: 3.8
       - name: Download Dependencies
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+        run: pip install -U requests
       - name: Get Data and Format README
         run: python3 update.py
       - name: Switch from HTTP to SSH
