@@ -18,10 +18,10 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 - Member of [Repl-it-Coders](https://github.com/Repl-it-Coders)
 
 <!--
-- {contribs} Contributions
-- {gists} Gists
-- Top Language: {top_lang}
-- Top Repo: {top_repo}
+- [contribs] Contributions
+- [gists] Gists
+- Top Language: [top_lang]
+- Top Repo: [top_repo]
 -->
 
 > **{zen}**
