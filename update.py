@@ -1,6 +1,11 @@
 import os
 import requests
+import time
+#import json
 
+start_time = time.time()
+
+print("Getting token")
 token = os.getenv("TOKEN")
 owner = "BD103"
 
@@ -10,6 +15,7 @@ owner = "BD103"
 
 
 class User:
+    print("Getting user data")
     query = f"https://api.github.com/users/{owner}"
     params = {}
     headers = {"Authorization": f"token {token}"}
@@ -24,6 +30,7 @@ class User:
 
 
 class Starred:
+    print("Getting starred repos")
     query = f"https://api.github.com/users/{owner}/starred"
     params = {}
     headers = {"Authorization": f"token {token}"}
@@ -35,6 +42,7 @@ class Starred:
 
 
 class Repo:
+    print("Getting repo data")
     query = f"https://api.github.com/users/{owner}/repos"
     params = {}
     headers = {"Authorization": f"token {token}"}
@@ -49,6 +57,7 @@ class Repo:
 
     for i in data:
         full_name = i["full_name"]
+        print("Getting data for repo: " + full_name)
         query = f"https://api.github.com/repos/{full_name}/commits"
         params = {}
         headers = {"Authorization": f"token {token}"}
@@ -72,7 +81,7 @@ class Repo:
         query = f"https://api.github.com/repos/{full_name}/issues"
         params = {"state": "all"}
         headers = {"Authorization": f"token {token}"}
-
+        
         r = requests.get(query, headers=headers, params=params)
 
         for i in r.json():
@@ -85,6 +94,7 @@ class Repo:
 
 
 class Zen:
+    print("Getting some zen UwU")
     query = "https://api.github.com/zen"
     params = {}
     headers = {"Authorization": f"token {token}"}
@@ -98,10 +108,12 @@ class Zen:
 # Formatting #
 # ---------- #
 
+print("Reading template")
 f = open("template.md", "rt")
 template = f.read()
 f.close()
 
+print("Writing data")
 f = open("README.md", "wt")
 f.write(
     template.format(
@@ -113,3 +125,6 @@ f.write(
     )
 )
 f.close()
+
+end_time = time.time()
+print("Process finished in " + str(round(end_time - start_time, 1)) + " seconds.")
