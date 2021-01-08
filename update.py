@@ -1,7 +1,7 @@
 import os
 import requests
 import time
-#import json
+import json
 
 start_time = time.time()
 
@@ -56,7 +56,7 @@ class Repo:
     issues = 0
 
     for i in data:
-        full_name = dict(i).get("full_name")
+        full_name = json.loads(i)["full_name"]
         print("Getting data for repo: " + full_name)
         query = f"https://api.github.com/repos/{full_name}/commits"
         params = {}
