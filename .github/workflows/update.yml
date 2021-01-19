@@ -25,7 +25,7 @@ jobs:
       - name: Get Data and Format README
         run: python3 update.py
         env:
-          TOKEN: ${{ secret.TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
       - name: Switch from HTTP to SSH
         run: git remote set-url origin ${{ secrets.ssh }}
       - name: Check for changes
