@@ -1,3 +1,27 @@
-[![BD103's github stats](https://github-readme-stats.vercel.app/api?username=BD103&count_private=true&show_icons=true&theme=algolia)](https://github.com/BD103)
+## Hello there!
+I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, composing, and occasionally talking philosophy with my friends.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BD103&count_private=true&theme=algolia)](https://github.com/BD103)
+## Contact
+- [Email :P](mailto:dont@stalk.me)
+- [Github though IDK why you would go there. XD](https://github.com/BD103)
+- [Repl.it](https://repl.io/@BD103)
+- [PyPI](https://pypi.org/user/BD103/)
+- [🎶 Website 🎶](https://bd103.github.io)
+
+## Stats
+- 12 Stars
+- 160 Commits
+- 15 Pull Requests
+- 19 Issues
+- Dark Mode Enabled
+- Owner of [Team Engage](https://github.com/Team-Engage)
+- Member of [Repl-it-Coders](https://github.com/Repl-it-Coders)
+
+<!--
+- [contribs] Contributions
+- [gists] Gists
+- Top Language: [top_lang]
+- Top Repo: [top_repo]
+-->
+
+> **Practicality beats purity.**
