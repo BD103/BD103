@@ -10,7 +10,7 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 
 ## Stats
 - 12 Stars
-- 160 Commits
+- 161 Commits
 - 15 Pull Requests
 - 19 Issues
 - Dark Mode Enabled
@@ -24,4 +24,4 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 - Top Repo: [top_repo]
 -->
 
-> **Practicality beats purity.**
+> **Design for failure.**
