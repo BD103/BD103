@@ -5,6 +5,8 @@ on:
     - cron: "0 2 * * *"
   push:
     branches: ["main"]
+  pull_request:
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
@@ -22,14 +24,18 @@ jobs:
         run: pip install -U requests
       - name: Get Data and Format README
         run: python3 update.py
-      - name: Switch from HTTP to SSH
-        run: git remote set-url origin ${{ secrets.ssh }}
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+      - name: Config Github
+        run: |
+          git config --global user.name "BD103-Action"
+          git config --global user.email "dont@stalk.me"
       - name: Check for changes
         run: git status
       - name: Stage changed files
         run: git add .
       - name: Commit file
-        run: git commit -m 'Update Readme'
+        run: git commit -m "Build $(date +%D)"
       - name: Fetch from master
         run: git fetch origin main
       - name: Push code to master
