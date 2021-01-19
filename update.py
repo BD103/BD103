@@ -65,8 +65,11 @@ class Repo:
         r = requests.get(query, headers=headers, params=params)
 
         for i in r.json():
+          try:
             if i["author"]["login"] == owner:
                 commits += 1
+          except TypeError:
+            pass
 
         query = f"https://api.github.com/repos/{full_name}/pulls"
         params = {"state": "all"}
