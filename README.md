@@ -9,8 +9,8 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 - [🎶 Website 🎶](https://bd103.github.io)
 
 ## Stats
-- 12 Stars
-- 161 Commits
+- 13 Stars
+- 162 Commits
 - 15 Pull Requests
 - 19 Issues
 - Dark Mode Enabled
@@ -24,4 +24,4 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 - Top Repo: [top_repo]
 -->
 
-> **Design for failure.**
+> **Encourage flow.**
