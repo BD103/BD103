@@ -10,9 +10,9 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 
 ## Stats
 - 14 Stars
-- 173 Commits
+- 178 Commits
 - 15 Pull Requests
-- 19 Issues
+- 20 Issues
 - Dark Mode Enabled
 - Owner of [Team Engage](https://github.com/Team-Engage)
 - Member of [Repl-it-Coders](https://github.com/Repl-it-Coders)
@@ -24,4 +24,4 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 - Top Repo: [top_repo]
 -->
 
-> **Avoid administrative distraction.**
+> **Mind your words, they are important.**
