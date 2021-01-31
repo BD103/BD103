@@ -7,6 +7,7 @@ I'm BD103. I enjoy doing stuff, like coding, playing Minecraft, designing, compo
 - [Repl.it](https://repl.io/@BD103)
 - [PyPI](https://pypi.org/user/BD103/)
 - [🎶 Website 🎶](https://bd103.github.io)
+- [Medium Blog](https://bd103.medium.com/)
 
 ## Stats
 - {stars} Stars
