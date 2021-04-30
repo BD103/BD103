@@ -14,14 +14,11 @@ I'm BD103, a Python programmer, Minecraft [Create Mod](https://github.com/Creato
 
 ## Stats
 
-- 6 Stars
-- 214 Commits
-- 30 Pull Requests
-- 11 Issues
+- 30 Starred Repos
+- 30 Total Repos
 - Dark Mode Enabled 🕶️
-- Owner of [Team Engage](https://github.com/Team-Engage)
 - Member of [Repl-it-Coders](https://github.com/Repl-it-Coders)
 
 ## What I'm doing right now
 
-Right now I'm working on developing the [Engage Engine](https://pypi.org/project/engage-engine) package for Python. You can follow the repos [@Team-Engage](https://github.com/Team-Engage). A lot of it is a work in progress, but feel free to check it out!
+Right now I'm working on a collection of [CodeMirror](https://codemirror.net) themes. [Check it out here!](https://mirrored-themes.bd103.repl.co) _(WIP)_
