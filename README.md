@@ -19,6 +19,6 @@ I'm BD103, a Python programmer, Minecraft [Create Mod](https://github.com/Creato
 - Dark Mode Enabled 🕶️
 - Member of [Repl-it-Coders](https://github.com/Repl-it-Coders)
 
-## What I'm doing right now
+## What I'm doing
 
-Right now I'm working on a collection of [CodeMirror](https://codemirror.net) themes. [Check it out here!](https://mirrored-themes.bd103.repl.co) _(WIP)_
+Currently I am trying to get better at CSS and Sass. My current projects are remaking my website and creating something for [@Repl-it-Coders](https://github.com/Repl-it-Coders).
