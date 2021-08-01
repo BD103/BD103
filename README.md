@@ -8,7 +8,7 @@ I'm BD103, a Python programmer, Minecraft [Create Mod](https://github.com/Creato
 - [Github though IDK why you would go there. XD](https://github.com/BD103)
 - [Repl.it](https://replit.com/@BD103)
 - [PyPI](https://pypi.org/user/BD103/)
-- [🎶 Website 🎶](https://bd103.github.io)
+- [🎶 Website 🎶](https://bd103.thedev.id)
 
 > Don't actually try to email me, I don't own the stalk.me domain! :P
 
@@ -17,8 +17,7 @@ I'm BD103, a Python programmer, Minecraft [Create Mod](https://github.com/Creato
 - 30 Starred Repos
 - 30 Total Repos
 - Dark Mode Enabled 🕶️
-- Member of [Repl-it-Coders](https://github.com/Repl-it-Coders)
 
 ## What I'm doing
 
-Currently I am trying to get better at CSS and Sass. My current projects are remaking my website and creating something for [@Repl-it-Coders](https://github.com/Repl-it-Coders).
+Programming a Minecraft utility project...
