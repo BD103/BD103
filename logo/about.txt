@@ -1,0 +1,8 @@
+Main Color:
+  #49a9ff
+
+Text Color:
+  #e5f3ff
+
+Tools Used:
+  https://coolors.co/49a9ff
