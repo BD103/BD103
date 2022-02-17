@@ -1,7 +1,3 @@
-> I am looking for a programmer that has experience in Python and [asynchronous code](https://trio.readthedocs.io/en/stable/) to collaborate on a project.
-> If you would like to apply, please create an issue [here](https://github.com/BD103/BD103/issues).
-> Thanks!
-
 Hello, there! (⍤)
 
 My name is BD103, and I am a Python-Java dude with an obsession with Object Oriented Programming.
