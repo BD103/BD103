@@ -9,18 +9,23 @@ My name is BD103, and I am a Rust programmer. I have been programming for about 
 - Website design (2+ years)
 - Java (2+ years)
 - Scratch (6+ years)
+- Kotlin (0.5+ years)
 
 ## Interests 🕶️
 
+- Concurrency and parallelism in computers (async :O)
 - Robotics
-- Music theory
-- Minecraft (redstone, modding, farms)
+- Minecraft (technical, redstone, modding, and more)
+- Niche programming concepts :)
+- Neural networks
+- Low-level programming
 
 ## Skills in Progress 🍋
 
 - Programming language implementation
 - Website design
-- GLSL shaders
+- Linear Algebra concepts
+- Mechanical engineering
 
 ## Do you like my [profile picture](https://github.com/BD103/BD103/raw/main/logo-08-29-22.png)?
 
