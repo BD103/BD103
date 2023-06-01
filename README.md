@@ -26,7 +26,3 @@ My name is BD103, and I am a Rust programmer. I have been programming for about 
 - Website design
 - Linear Algebra concepts
 - Mechanical engineering
-
-## Do you like my [profile picture](https://github.com/BD103/BD103/raw/main/logo-08-29-22.png)?
-
-It was generated with [OpenAI's Dall-E 2](https://openai.com/dall-e-2/). I highly recommend checking it out!
