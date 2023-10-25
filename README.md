@@ -1,28 +1,21 @@
-Hello, there! 🫠
+Hi!
 
-My name is BD103, and I am a Rust programmer. I have been programming for about 6 years (as of 2022), and have used many coding technologies in the past. If you like any of my projects, feel free to create a PR or reach out to me in the [issues](https://github.com/BD103/BD103/issues) tab of this repository.
+My name is BD103, and I program all sorts of things.
 
-## Notable Skills 🥖
+# Rust
 
-- Rust (1+ years)
-- Python (3+ years)
-- Website design (2+ years)
-- Java (2+ years)
-- Scratch (6+ years)
-- Kotlin (0.5+ years)
+Rust is by far my favorite language. I enjoy low-level programming and hope to one day maintain an active Rust project. You can find me [blogging about Rust](https://bd103.github.io) or participating in the Rust [forum](https://users.rust-lang.org/u/bd103/).
 
-## Interests 🕶️
+Fun Fact: You can view the private members of the Rust standard library by going to [stdrs.dev](https://stdrs.dev/).
 
-- Concurrency and parallelism in computers (async :O)
-- Robotics
-- Minecraft (technical, redstone, modding, and more)
-- Niche programming concepts :)
-- Neural networks
-- Low-level programming
+# Kotlin
 
-## Skills in Progress 🍋
+I'm the lead programmer for the the [BotsBurgh](https://github.com/BotsBurgh/) robotics team, which competes in [FTC](https://www.firstinspires.org/robotics/ftc) every year. You can check out [this year's code](https://github.com/BotsBurgh/BOTSBURGH-FTC-2023-24), if you're interested.
 
-- Programming language implementation
-- Website design
-- Linear Algebra concepts
-- Mechanical engineering
+Fun Fact: Kotlin has around [86 unique keywords](https://kotlinlang.org/docs/keyword-reference.html).
+
+# Vue
+
+When I occasionally write websites, I default to [Vue](https://vuejs.org/). I frequently use [Nuxt](https://nuxt.com/) and [EdgeDB](https://www.edgedb.com/) too. One of my proudest projects is a [database and website](https://github.com/Phoenix-Wing/Reservoir) that tracks information for a D&D-like roleplay club I help run.
+
+Fun Fact: One of the oldest websites I made that still exists is a tiny [notepad app, hosted on Replit](https://replit.com/@BD103/Notepad). It was created 3 years ago, and I no longer use Replit, but I still use the notepad!
