@@ -18,4 +18,6 @@ Fun Fact: Kotlin has around [86 unique keywords](https://kotlinlang.org/docs/key
 
 When I occasionally write websites, I default to [Vue](https://vuejs.org/). I frequently use [Nuxt](https://nuxt.com/) and [EdgeDB](https://www.edgedb.com/) too. One of my proudest projects is a [database and website](https://github.com/Phoenix-Wing/Reservoir) that tracks information for a D&D-like roleplay club I help run.
 
-Fun Fact: One of the oldest websites I've made that still exists today is a tiny [notepad app, hosted on Replit](https://replit.com/@BD103/Notepad). It was created 3 years ago. I no longer use Replit, but I still use the notepad!
+Fun Fact: One of the oldest websites I've made that still exists today is a tiny [notepad app, ~~hosted on Replit~~](https://bd103.github.io/Notepad). It was created 3 years ago. I no longer use Replit, but I still use the notepad!
+
+**Edit:** Replit no longer hosts static websites for free. I have re-uploaded the website to Github [here](https://github.com/BD103/Notepad).
