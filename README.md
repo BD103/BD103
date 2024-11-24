@@ -1,23 +1,27 @@
-Hi!
+Hi there, I'm BD103! 👋
 
-My name is BD103, and I program all sorts of things.
+I'm an open-source contributor with a strong interest in game development, tooling, and infrastructure.
 
-# Rust
+# Bevy
 
-Rust is by far my favorite language. I enjoy low-level programming and hope to one day maintain an active Rust project. You can find me [blogging about Rust](https://bd103.github.io) or participating in the Rust [forum](https://users.rust-lang.org/u/bd103/).
+I've been an active contributor and community member of [Bevy], a game engine written in [Rust], since November 2023. Here's some Bevy-specific projects I've been involved in:
 
-Fun Fact: You can view the private members of the Rust standard library by going to [stdrs.dev](https://stdrs.dev/).
+- [The Bevy Engine](https://github.com/bevyengine/bevy)
+- [Bevy's Website](https://github.com/bevyengine/bevy-website)
+- [The Bevy Linter and CLI](https://github.com/TheBevyFlock/bevy_cli)
+- [flag-frenzy](https://github.com/TheBevyFlock/flag-frenzy)
+- [bevy-bencher](https://github.com/TheBevyFlock/bevy-bencher)
 
-# Kotlin
+> [!TIP]
+>
+> I gave a talk on the Bevy Linter at the 7th Bevy Meetup! You can watch it [here](https://www.youtube.com/watch?v=Ao2gXd_CgUc), with the code examples [here](https://github.com/BD103/Bevy-Meetup-7).
 
-I'm the lead programmer for the the [BotsBurgh](https://github.com/BotsBurgh/) robotics team, which competes in [FTC](https://www.firstinspires.org/robotics/ftc) every year. You can check out [this year's code](https://github.com/BotsBurgh/BOTSBURGH-FTC-2023-24), if you're interested.
+[Bevy]: https://bevyengine.org
+[Rust]: https://www.rust-lang.org
 
-Fun Fact: Kotlin has around [86 unique keywords](https://kotlinlang.org/docs/keyword-reference.html).
+# Github Actions
 
-# Vue
+I also spend a lot of time building continuous integration for projects. Some tools that I maintain include:
 
-When I occasionally write websites, I default to [Vue](https://vuejs.org/). I frequently use [Nuxt](https://nuxt.com/) and [EdgeDB](https://www.edgedb.com/) too. One of my proudest projects is a [database and website](https://github.com/Phoenix-Wing/Reservoir) that tracks information for a D&D-like roleplay club I help run.
-
-Fun Fact: One of the oldest websites I've made that still exists today is a tiny [notepad app, ~~hosted on Replit~~](https://bd103.github.io/Notepad). It was created 3 years ago. I no longer use Replit, but I still use the notepad!
-
-**Edit:** Replit no longer hosts static websites for free. I have re-uploaded the website to Github [here](https://github.com/BD103/Notepad).
+- [Leafwing-Studios/cargo-cache](https://github.com/Leafwing-Studios/cargo-cache)
+- [cargo-sweep](https://github.com/BD103/cargo-sweep)
